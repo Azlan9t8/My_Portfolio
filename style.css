@@ -1,0 +1,30 @@
+
+a.nav-link:hover{
+color: #00c6a1 !important;
+cursor: pointer;
+}
+a.nav-link{
+    color: white !important;
+}
+#box{
+   
+    background: linear-gradient(57deg,#00c6a1,#1e8294);
+}
+.navbar{
+    background: linear-gradient(57deg,#00c6a1,#1e8294);
+    border-bottom: 1px solid white;
+    color: white;
+    font-weight: 600;
+}
+.navbar-brand{
+    font-size: 25px !important;
+    font-weight: 700;
+    color: white !important;
+}
+#box2{
+    color: white;
+   height: 50px;
+    background: linear-gradient(57deg,#00c6a1,#1e8294);
+}
+
+
